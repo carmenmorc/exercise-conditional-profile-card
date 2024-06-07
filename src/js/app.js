@@ -55,10 +55,11 @@ window.onload = function() {
     // if includeCover is true the algorithm should show the cover image
     includeCover: true,
     // this is the image's url that will be used as a background for the profile cover
-    background: "https://images.unsplash.com/photo-1511974035430-5de47d3b95da",
+    background:
+      "https://mir-s3-cdn-cf.behance.net/5e647cfde9cd063e727bd4d2ff046b2b/f3764d31-b7f0-4f7c-b2c9-afcd47d475d4_rwc_500x1221x1007x140x3092.jpg?h=16aeab3d3e12bf8bd35b9ffc51eca187",
     // this is the url for the profile avatar
     avatarURL:
-      "https://mir-s3-cdn-cf.behance.net/5e647cfde9cd063e727bd4d2ff046b2b/f3764d31-b7f0-4f7c-b2c9-afcd47d475d4_rwc_500x1221x1007x140x3092.jpg?h=16aeab3d3e12bf8bd35b9ffc51eca187",
+      "https://mir-s3-cdn-cf.behance.net/user/115/b752f11779116675.65df81219c873.jpg",
     // social media bar position (left or right)
     socialMediaPosition: "position-left",
     // social media usernames
